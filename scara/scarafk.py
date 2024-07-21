@@ -3,7 +3,7 @@ import numpy as np
 # INPUTS
 th1 = np.radians(0.0)
 th2 = np.radians(0.0)
-th3 = np.radians(0.0)
+th4 = np.radians(0.0)
 stroke = 0.0
 
 # CONSTANTS
