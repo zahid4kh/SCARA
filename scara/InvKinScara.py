@@ -43,4 +43,4 @@ def angles(px, py, pz): # PX, PY, PZ --->>> desired coordinates
           f"Z stroke = {d}")
 
 
-angles(-100, 250, 157.5)
+angles(-100, 250, 157.5) # <---- INPUT VALUES ARE HERE
