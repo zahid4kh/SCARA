@@ -23,6 +23,10 @@ Change the DH parameters according to your robot's configurations.
 	a4 = 173.0    # height from frame 1 to frame 2
 	a5 = 294.0    # height from frame 2 to frame 3
 
+  	alpha = [np.radians(0), np.radians(180), np.radians(0), np.radians(0)]
+	r = [a2, a3, 0, 0]
+	d = [a1, a4, a5 + stroke, 0]
+
 Enter the desired values for joint variables:
  
  	th1 = np.radians(0.0)
