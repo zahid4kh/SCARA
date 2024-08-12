@@ -1,0 +1,1 @@
+Your privacy is important to us. Our Inverse Kinematics Calculator app does not collect, store, or share any personal data. The app processes numerical inputs locally on your device, and no information is transmitted over the internet. We do not access or store any data, ensuring your calculations remain private and secure.
